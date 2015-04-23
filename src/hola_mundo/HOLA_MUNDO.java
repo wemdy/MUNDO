@@ -20,11 +20,13 @@ public class HOLA_MUNDO {
         // TODO code application logic hereç
         int a = 4;
         int b = 3;
+        int c = 8; //Wendy Añadi
         int suma;
         
-        suma=a+b;
+        suma=a+b+c;
         
         JOptionPane.showMessageDialog(null, suma);
+        
     }
    
 }
