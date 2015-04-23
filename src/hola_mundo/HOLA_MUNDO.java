@@ -26,7 +26,7 @@ public class HOLA_MUNDO {
         suma=a+b+c;
         
         JOptionPane.showMessageDialog(null, suma);
-        
+        JOptionPane.showMessageDialog(null, "WENDY");
     }
    
 }
