@@ -5,6 +5,8 @@
  */
 package hola_mundo;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author Gabriela
@@ -22,6 +24,7 @@ public class HOLA_MUNDO {
         
         suma=a+b;
         
+        JOptionPane.showMessageDialog(null, suma);
     }
    
 }
