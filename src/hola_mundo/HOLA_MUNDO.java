@@ -28,6 +28,8 @@ public class HOLA_MUNDO {
         JOptionPane.showMessageDialog(null, suma);// ya era hora jaja att diego 
         JOptionPane.showMessageDialog(null, "WENDY");
         //NOSE Q PONER PRUEBA 1
+        
+        //comentario por el futuro Ing. Christian Alarcón
     }
    
 }
