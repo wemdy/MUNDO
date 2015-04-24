@@ -29,7 +29,7 @@ public class HOLA_MUNDO {
         JOptionPane.showMessageDialog(null, "WENDY");
         //NOSE Q PONER PRUEBA 1
         
-        //comentario por el futuro Ing. Christian Alarcón
+        //comentario att: Christian Alarcón
         /// aqui estoy att:diego 
     }
    
