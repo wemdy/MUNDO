@@ -27,6 +27,8 @@ public class HOLA_MUNDO {
         
         JOptionPane.showMessageDialog(null, suma);// ya era hora jaja att diego 
         JOptionPane.showMessageDialog(null, "WENDY");
+        
+        //nuevo comentario att:Christian Alarcón
 
     }
    
